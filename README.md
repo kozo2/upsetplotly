@@ -1,2 +1,2 @@
 # vennplotly
-Create Venn diagram with Plotly R Open Source Graphing Library
+Create [Upset](http://caleydo.org/tools/upset/) plot with Plotly R Open Source Graphing Library
